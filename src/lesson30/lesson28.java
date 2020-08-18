@@ -9,16 +9,29 @@ public class lesson28 {
     private static void multiplicationsTable(int n) {
         for (int i = 1; i <= n; i++) {
             for (int j = 1; j <= n; j++) {
-                if (i * j < 10) {
-                    System.out.print("" + i * j);
-                }
-                System.out.print("  " + i * j);
 
+                //System.out.printf("%3d ", i * j);
+                System.out.print(formatTable(i,j));
             }
             System.out.println();
 
         }
+
+
     }
+
+    public static String formatTable(int i, int j) {
+        String result = "" + i * j;
+        if (i * j < 10) {
+            result = "   " + i * j;
+        }else if(i*j<100){
+            result = "  " + i * j;
+        }else if (i*j <1000){
+            result = " " + i * j;
+        }
+        return result;
+    }
+
 
     public static void nestedLoops() {
         for (int i = 0; i < 5; i++) {

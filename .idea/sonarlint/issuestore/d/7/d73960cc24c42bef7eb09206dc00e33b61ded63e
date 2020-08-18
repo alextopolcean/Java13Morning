@@ -1,0 +1,10 @@
+
+H
+java:S1481"-Remove this unused "variable" local variable.(²«ü·ûÿÿÿÿ
+D
+java:S2140")Use "java.util.Random.nextInt()" instead.(»»òªýÿÿÿÿ
+2
+java:S1643"Use a StringBuilder instead.(Â˜€Ÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œì™¼
+A
+java:S1481"+Remove this unused "result" local variable.(žìþ“

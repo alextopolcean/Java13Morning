@@ -1,0 +1,11 @@
+
+Q	java:S125#"<This block of commented-out lines of code should be removed.(æıà
+0
+java:S1220""Move this file to a named package.
+K
+java:S1481"0Remove this unused "floorLenght" local variable.(·­î´ÿÿÿÿÿ
+J
+java:S1481"/Remove this unused "floorWidth" local variable.(˜á­ûÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ù±¸ë
+F
+java:S1481"0Remove this unused "workingHour" local variable.(µİÀ
