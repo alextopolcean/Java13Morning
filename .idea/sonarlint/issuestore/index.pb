@@ -99,3 +99,11 @@ H
 src/StringExercices.java,9\d\9dfa26df149859a53133941435ba07deef7cecd8
 F
 src/lesson46/HW46.java,1\a\1a84d16bb6cf4d598485dc64ebe502637090455c
+<
+src/xxx.java,a\d\adf60112d6bee9131806e49ce294fd94a07420ee
+K
+src/lesson47/ClassWork.java,f\b\fbb49c328c994d9f16e95ed9de87cd2d042d720c
+\
+,src/lesson48/ClassWorkStringExercises02.java,1\8\18e06fc5bdf42ecdedb299bd3a80200b25eda87e
+P
+ src/lesson48/HW48HanoiTower.java,c\a\ca8e008cd4337928d8dd1b300fe43ff7d8ff4f70
