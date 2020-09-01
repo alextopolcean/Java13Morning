@@ -1,3 +1,5 @@
+package lesson44;
+
 public class ArrayEcersices {
     public static void main(String[] args) {
         System.out.println(maxSpan(new int[]{1, 2, 1, 1, 3}));

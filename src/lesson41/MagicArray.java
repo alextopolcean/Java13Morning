@@ -1,3 +1,7 @@
+package lesson41;
+
+import lesson43.ClassWork2008;
+
 import java.util.Arrays;
 
 public class MagicArray {

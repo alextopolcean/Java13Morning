@@ -1,3 +1,5 @@
+package lesson43;
+
 import java.util.Arrays;
 
 public class AP_SortArrays {

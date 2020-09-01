@@ -107,3 +107,9 @@ K
 ,src/lesson48/ClassWorkStringExercises02.java,1\8\18e06fc5bdf42ecdedb299bd3a80200b25eda87e
 P
  src/lesson48/HW48HanoiTower.java,c\a\ca8e008cd4337928d8dd1b300fe43ff7d8ff4f70
+U
+%src/lesson49/RecursionExercises1.java,3\1\318f03247506366aab572e672462f8b1efd98ddd
+X
+(src/lesson50/RecursionExercises1Two.java,e\2\e22a050e8b98907536d8ca487d204fbba32a0f2c
+J
+src/lesson51/HomeWork.java,5\a\5a67eedf6ae98e448bad29640114173698f5c7da

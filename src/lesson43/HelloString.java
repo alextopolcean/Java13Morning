@@ -1,3 +1,5 @@
+package lesson43;
+
 public class HelloString {
     public static void main(String[] args) {
         System.out.println(xyzMiddle("AAxyzBB"));// → true

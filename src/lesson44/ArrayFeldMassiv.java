@@ -1,3 +1,5 @@
+package lesson44;
+
 public class ArrayFeldMassiv {
     public static void main(String[] args) {
         int[] var1 = new int[]{1, 2, 6};

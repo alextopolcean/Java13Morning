@@ -1,3 +1,5 @@
+package lesson42;
+
 import java.util.Arrays;
 
 public class MyDoubleArray {

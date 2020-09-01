@@ -1,3 +1,5 @@
+package lesson38;
+
 public class HW39 {
     public static void main(String[] args) {
         double length = 3.3; //длина

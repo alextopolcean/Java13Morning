@@ -1,3 +1,5 @@
+package lesson42;
+
 public class Tiles {
     public static void main(String[] args) {
         /*Мастеру плиточнику Сергею Ивановичу Золотыеруки задают часто один и тот же вопрос. Сколько будет стоить

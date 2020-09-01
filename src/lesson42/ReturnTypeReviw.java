@@ -1,3 +1,5 @@
+package lesson42;
+
 public class ReturnTypeReviw {
     public static void main(String[] args) {
         // System.out.println(no23(a1));

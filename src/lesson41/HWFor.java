@@ -1,3 +1,5 @@
+package lesson41;
+
 public class HWFor {
     public static void main(String[] args) {
         //System.out.println(hwFor(6));

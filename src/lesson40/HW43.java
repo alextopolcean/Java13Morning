@@ -1,3 +1,5 @@
+package lesson40;
+
 import java.util.Arrays;
 
 public class HW43 {

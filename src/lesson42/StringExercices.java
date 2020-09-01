@@ -1,3 +1,5 @@
+package lesson42;
+
 public class StringExercices {
     public static void main(String[] args) {
         System.out.println(".....................");
